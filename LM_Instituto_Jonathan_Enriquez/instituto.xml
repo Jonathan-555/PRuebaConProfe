@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="instituto.xsl" type="text/xsl"?>
+<ies>
+    <nombre>IES TicArte</nombre>
+    <ciclos>
+        <ciclo id="ASIR">
+            <nombre>Administración de Sistemas Informáticos en Red</nombre>
+            <grado>Superior</grado>
+            <decretoTitulo año="2009" />
+            <asignaturas>
+                <asignatura id="SGE">
+                    <nombre>Sistemas de Gestión Empresarial</nombre>
+                    <alumnos>
+                        <alumno id="AL001">
+                            <nombre>Lucía Gómez</nombre>
+                            <notaFinal>8.5</notaFinal>
+                        </alumno>
+                        <alumno id="AL002">
+                            <nombre>Carlos Pérez</nombre>
+                            <notaFinal>7.0</notaFinal>
+                        </alumno>
+                    </alumnos>
+                </asignatura>
+                <asignatura id="AD">
+                    <nombre>Acceso a Datos</nombre>
+                    <alumnos>
+                        <alumno id="AL001">
+                            <nombre>Lucía Gómez</nombre>
+                            <notaFinal>8.5</notaFinal>
+                        </alumno>
+                        <alumno id="AL002">
+                            <nombre>Carlos Pérez</nombre>
+                            <notaFinal>7.2</notaFinal>
+                        </alumno>
+                        <alumno id="AL003">
+                            <nombre>Claudia Ramirez</nombre>
+                            <notaFinal>5.0</notaFinal>
+                        </alumno>
+                        <alumno id="AL004">
+                            <nombre>Jorge Vals</nombre>
+                            <notaFinal>6.1</notaFinal>
+                        </alumno>
+                        <alumno id="AL005">
+                            <nombre>Dimitri Petrov</nombre>
+                            <notaFinal>7.1</notaFinal>
+                        </alumno>
+                    </alumnos>
+                </asignatura>                
+                <asignatura id="PSP">
+                    <nombre>Programación de Servicios y Procesos</nombre>
+                    <alumnos>
+                        <alumno id="AL001">
+                            <nombre>Lucía Gómez</nombre>
+                            <notaFinal>8.5</notaFinal>
+                        </alumno>
+                        <alumno id="AL002">
+                            <nombre>Carlos Pérez</nombre>
+                            <notaFinal>7.2</notaFinal>
+                        </alumno>
+                        <alumno id="AL003">
+                            <nombre>Claudia Ramirez</nombre>
+                            <notaFinal>5.0</notaFinal>
+                        </alumno>
+                        <alumno id="AL004">
+                            <nombre>Jorge Vals</nombre>
+                            <notaFinal>6.1</notaFinal>
+                        </alumno>
+                    </alumnos>
+                </asignatura>
+            </asignaturas>
+        </ciclo>
+        <ciclo id="DAW">
+            <nombre>Desarrollo de Aplicaciones Web</nombre>
+            <grado>Superior</grado>
+            <decretoTitulo año="2010" />
+            <asignaturas>
+                <asignatura id="PRG">
+                    <nombre>Programación</nombre>
+                    <alumnos>
+                        <alumno id="AL052">
+                            <nombre>Marta Vidal</nombre>
+                            <notaFinal>9.2</notaFinal>
+                        </alumno>
+                        <alumno id="AL053">
+                            <nombre>Jorge Martín</nombre>
+                            <notaFinal>6.5</notaFinal>
+                        </alumno>
+                        <alumno id="AL054">
+                            <nombre>Sara Jiménez</nombre>
+                            <notaFinal>6.9</notaFinal>
+                        </alumno>
+                        <alumno id="AL055">
+                            <nombre>José Vidal</nombre>
+                            <notaFinal>7.7</notaFinal>
+                        </alumno>
+                        <alumno id="AL056">
+                            <nombre>Matías Pérez</nombre>
+                            <notaFinal>6.4</notaFinal>
+                        </alumno>
+                    </alumnos>
+                </asignatura>
+                <asignatura id="LM">
+                    <nombre>Lenguaje de Marcas</nombre>
+                    <alumnos>
+                        <alumno id="AL052">
+                            <nombre>Marta Vidal</nombre>
+                            <notaFinal>9.2</notaFinal>
+                        </alumno>
+                        <alumno id="AL053">
+                            <nombre>Jorge Martín</nombre>
+                            <notaFinal>6.5</notaFinal>
+                        </alumno>
+                        <alumno id="AL055">
+                            <nombre>José Vidal</nombre>
+                            <notaFinal>7.7</notaFinal>
+                        </alumno>
+                        <alumno id="AL056">
+                            <nombre>Matías Pérez</nombre>
+                            <notaFinal>6.4</notaFinal>
+                        </alumno>
+                    </alumnos>
+                </asignatura>
+            </asignaturas>
+        </ciclo>
+        <ciclo id="SMR">
+            <nombre>Sistemas Microinformáticos y Redes</nombre>
+            <grado>Medio</grado>
+            <decretoTitulo año="2008" />
+            <asignaturas>
+                <asignatura id="RDS">
+                    <nombre>Redes de Datos</nombre>
+                    <alumnos>
+                        <alumno id="AL077">
+                            <nombre>Ana Torres</nombre>
+                            <notaFinal>7.8</notaFinal>
+                        </alumno>
+                        <alumno id="AL078">
+                            <nombre>Pablo Núñez</nombre>
+                            <notaFinal>6.3</notaFinal>
+                        </alumno>
+                        <alumno id="AL079">
+                            <nombre>Jesús Méndez</nombre>
+                            <notaFinal>7.1</notaFinal>
+                        </alumno>
+                        <alumno id="AL080">
+                            <nombre>Felipe Neri</nombre>
+                            <notaFinal>5.8</notaFinal>
+                        </alumno>
+                    </alumnos>
+                </asignatura>
+                <asignatura id="OFI">
+                    <nombre>Ofimática</nombre>
+                    <alumnos>
+                        <alumno id="AL077">
+                            <nombre>Ana Torres</nombre>
+                            <notaFinal>7.8</notaFinal>
+                        </alumno>
+                        <alumno id="AL078">
+                            <nombre>Pablo Núñez</nombre>
+                            <notaFinal>6.3</notaFinal>
+                        </alumno>
+                        <alumno id="AL079">
+                            <nombre>Jesús Méndez</nombre>
+                            <notaFinal>7.1</notaFinal>
+                        </alumno>
+                        <alumno id="AL080">
+                            <nombre>Felipe Neri</nombre>
+                            <notaFinal>5.8</notaFinal>
+                        </alumno>
+                        <alumno id="AL081">
+                            <nombre>Nerea Blas</nombre>
+                            <notaFinal>6.2</notaFinal>
+                        </alumno>
+                    </alumnos>
+                </asignatura>
+            </asignaturas>
+        </ciclo>
+    </ciclos>
+</ies>
